@@ -24,9 +24,12 @@
 
 ## Доказательство многозадачности
 
-![07_processes](assets/screenshots/07_processes.png)
+<div align="center">
 
-<p align="center"><em>Диспетчер задач: одновременно работают Discord, Telegram Desktop и Visual Studio Code — каждая программа получает свою долю ресурсов CPU и RAM</em></p>
+![07_services](assets/screenshots/07_services.png)  
+<em>Окно «Службы» (services.msc) — список активных системных служб</em>
+
+</div>
 
 ---
 

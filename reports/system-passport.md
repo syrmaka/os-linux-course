@@ -26,36 +26,54 @@
 
 ## Скриншоты
 
-![01_winver](assets/screenshots/01_winver.png)
+<div align="center">
 
-<p align="center"><em>Окно winver — версия и сборка ОС</em></p>
+![01_winver](assets/screenshots/01_winver.png)  
+<em>Окно winver — версия и сборка ОС</em>
 
----
-
-![02_about](assets/screenshots/02_about.png)
-
-<p align="center"><em>«Параметры» → «Система» → «О системе»</em></p>
+</div>
 
 ---
 
-![03_cpu](assets/screenshots/03_cpu.png)
+<div align="center">
 
-<p align="center"><em>Диспетчер задач: вкладка «Производительность» → «ЦП»</em></p>
+![02_about](assets/screenshots/02_about.png)  
+<em>«Параметры» → «Система» → «О системе»</em>
 
----
-
-![04_memory](assets/screenshots/04_memory.png)
-
-<p align="center"><em>Диспетчер задач: вкладка «Производительность» → «Память»</em></p>
+</div>
 
 ---
 
-![05_disk](assets/screenshots/05_disk.png)
+<div align="center">
 
-<p align="center"><em>Диспетчер задач: вкладка «Производительность» → «Диск»</em></p>
+![03_cpu](assets/screenshots/03_cpu.png)  
+<em>Диспетчер задач: вкладка «Производительность» → «ЦП»</em>
+
+</div>
 
 ---
 
-![06_gpu](assets/screenshots/06_gpu.png)
+<div align="center">
 
-<p align="center"><em>Диспетчер задач: вкладка «Производительность» → «ГП 0» (NVIDIA GeForce GTX 1650)</em></p>
+![04_memory](assets/screenshots/04_memory.png)  
+<em>Диспетчер задач: вкладка «Производительность» → «Память»</em>
+
+</div>
+
+---
+
+<div align="center">
+
+![05_disk](assets/screenshots/05_disk.png)  
+<em>Диспетчер задач: вкладка «Производительность» → «Диск»</em>
+
+</div>
+
+---
+
+<div align="center">
+
+![06_gpu](assets/screenshots/06_gpu.png)  
+<em>Диспетчер задач: вкладка «Производительность» → «ГП 0» (NVIDIA GeForce GTX 1650)</em>
+
+</div>
